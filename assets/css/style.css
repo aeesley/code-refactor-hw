@@ -92,6 +92,16 @@ p {
     color: #ffffff;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -103,8 +113,12 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+.main h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 
-.search-engine-optimization h2 {
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -117,17 +131,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+} */
 
 .benefits {
     margin-right: 20px;
